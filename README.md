@@ -17,7 +17,7 @@ O resultado será exibido no campo principal.
 Utilize o botão Reset para limpar a tela e iniciar um novo cálculo.
 
 
-Vídeo da Calculatora em execução: https://youtu.be/JUN1a20RGQU
+Vídeo da Calculadora em execução: https://youtu.be/JUN1a20RGQU
 
 
 *Tecnologias Utilizadas:*
