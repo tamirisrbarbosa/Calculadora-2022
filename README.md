@@ -1,6 +1,6 @@
 **Calculadora Simples**
 
-Esta calculadora básica foi criada utilizando HTML, CSS e foram adicionadas algumas funcionalidades de Javascript, no arquivo HTML.
+Esta calculadora básica foi criada utilizando HTML, CSS e foram adicionadas algumas funcionalidades de Javascript, no arquivo HTML. Desenvolvi para praticar um curso que realizei em 2022, de HTML e CSS.
 
 *Funcionalidades:*
 
